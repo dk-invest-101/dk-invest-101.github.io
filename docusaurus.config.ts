@@ -16,7 +16,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dk-invest-101', // Usually your GitHub org/user name.
   projectName: 'dk-invest-101.github.io', // Usually your repo name.
-  deploymentBranch: "deployment",
+  // deploymentBranch: "deployment",
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
