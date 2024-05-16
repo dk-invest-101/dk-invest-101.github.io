@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dk-invest-101/dk-invest-101.github.io/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/dk-invest-101/dk-invest-101.github.io/tree/main/docs',
         },
         blog: false,
         theme: {
