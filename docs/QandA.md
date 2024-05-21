@@ -1,6 +1,6 @@
 ---
 title: Q&A
-sidebar_position: 11
+sidebar_position: 12
 ---
 
 ### I've just seen lots of hypes about a Stock online, and it increased massively within the 24h - if I'm not buying now, then it's too late?!
