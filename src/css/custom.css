@@ -35,15 +35,21 @@
   padding: 16px;
 }
 
-main img{
+main article img{
   box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
   border-radius: 5px;
   margin: 15px 0px
 }
 
-main a{
+main article a{
   color: #1f9c57;
+  text-decoration: underline;
 }
+
+main article a:hover{
+  color: #23cc6e;
+}
+
 
 .table-of-contents__link--active{
   color: #1f9c57
