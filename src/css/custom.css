@@ -41,6 +41,10 @@ main img{
   margin: 15px 0px
 }
 
+main a{
+  color: #1f9c57;
+}
+
 .table-of-contents__link--active{
-  color: #3ebb76
+  color: #1f9c57
 }
