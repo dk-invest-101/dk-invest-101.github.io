@@ -3,10 +3,15 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
+  markdown: {
+    mermaid: true,
+  },
+  themes: ["@docusaurus/theme-mermaid"],
+
   title: "DK Invest 101",
   tagline: "Basics for investing in Denmark",
 
-  favicon: '/img/favicon.ico',
+  favicon: "/img/favicon.ico",
 
   // Set the production url of your site here
   url: "https://dk-invest-101.github.io/",
@@ -79,7 +84,7 @@ const config: Config = {
         //   ],
         // },
       ],
-      copyright: `For legal reasons: This website is no financial advice :)<br/>MIT Licensed © ${new Date().getFullYear()}`,
+      copyright: `For legal reasons: This wiki is no financial advice :)<br/>MIT Licensed © ${new Date().getFullYear()}`,
     },
     prism: {
       theme: prismThemes.github,
