@@ -90,6 +90,11 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    mermaid: {
+      options: {
+        securityLevel: "loose",
+      },
+    },
   } satisfies Preset.ThemeConfig,
 };
 

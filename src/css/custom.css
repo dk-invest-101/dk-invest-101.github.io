@@ -46,6 +46,11 @@ main article a{
   text-decoration: underline;
 }
 
+main article a g p{
+  color: #1f9c57;
+  text-decoration: underline;
+}
+
 main article a:hover{
   color: #23cc6e;
 }

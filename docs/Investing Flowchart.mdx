@@ -8,13 +8,27 @@ Use the following simple flowchart as a tool for aiding in decisions
 
 ```mermaid
 flowchart TD
-    A[Is time horizon longer than 5 years?]
-    A -->|No| B[Do you have more than 750.000 DKK?]
-    B -->|Yes| B1["`Split it and store in several bank accounts with good interest rates to make sure you all is covered by the Garantiformuen`"]
-    B -->|No| B2["`Store in a bank account with a good interest rate`"]
-    A -->|Yes| C["`Are you comfortable investing all at once?`"]
-    C -->|No| D["`Split the investments and invest over time. For example, invest 1/6 each month (Dollar-cost averaging).`"]
-    C -->|Yes| E["`Invest all at once`"]
-    D --> X["`Invest in _iShares MSCI ACWI UCITS ETF USD (Acc) (IUSQ)_ and hold on to it for at least 5 years.`"]
-    E --> X
+    A["`Have you made any Budgeting and optimized your costs?`"]
+    A -->|No| B["`Please do so as it helps to create an overview of your expenses and what may be unnecessary!`"]
+    A -->|Yes| C["`Do you have an emergency fund to cover 1-6 months?`"]
+    C -->|No| D["`Please create an emergency fund first for unprecedented times!`"]
+    C -->|Yes| E["`Do you have any loans with more than 10% interest rates?`"]
+    E -->|Yes| G["`Please pay off debts first since it's better to pay those off than keeping in savings or investing`"]
+    E -->|No| F["`Good job - you are financially stable!`"]
+    F --> H["`Is your time horizon longer than 5 years?`"]
+    H -->|No| I["Do you have more than 750.000 DKK?"]
+    I -->|Yes| J["`Split it and store in several bank accounts with good interest rates to make sure all is covered by the Garantiformuen`"]
+    I -->|No| K["`Store in a bank account with a good interest rate`"]
+    H -->|Yes| L["`Are you comfortable investing all at once?`"]
+    L -->|No| M["`Split the investments and invest over time. For example, invest 1/6 each month (Dollar-cost averaging).`"]
+    L -->|Yes| N["`Invest all at once`"]
+    M & N --> O["`Invest in _iShares MSCI ACWI UCITS ETF USD (Acc) (IUSQ)_ and hold on to it for at least 5 years.`"]
+    click B "https://dk-invest-101.github.io/Budgeting%20before%20Investing"
+    click D "https://dk-invest-101.github.io/Budgeting%20before%20Investing#emergency-fund"
+    click G "https://ukpersonal.finance/debt/#Why_interest_is_a_killer_%F0%9F%9A%92"
+    click H "https://dk-invest-101.github.io/Budgeting%20before%20Investing#financial-planning"
+    click J "https://dk-invest-101.github.io/QandA#where-to-safely-store-large-sums-of-money"
+    click O "https://dk-invest-101.github.io/How%20to%20choose%20your%20ETFs%20&%20Stocks#deciding-on-an-etf"
+    click M "https://dk-invest-101.github.io/QandA#invest-a-large-sum-all-at-once-or-over-a-period-of-months"
+    click N "https://dk-invest-101.github.io/QandA#invest-a-large-sum-all-at-once-or-over-a-period-of-months"
 ```
