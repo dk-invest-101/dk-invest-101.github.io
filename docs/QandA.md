@@ -75,7 +75,7 @@ Here’s a comparison of taxes without and with tax-gain harvesting:
 
 ##### Without Tax-Gain Harvesting:
 
-| Date Sold     | Realized Profits | Paid taxes at 27%<br>( < 61.000 DKK) | Paid taxes&nbsp;at 42%<br>( > 61.000 DKK) |
+| Date Sold     | Realized Profits | Paid taxes at 27%<br/>( < 61.000 DKK) | Paid taxes&nbsp;at 42%<br/>( > 61.000 DKK) |
 |:------------- |:---------------- |:------------------------------------ |:----------------------------------------- |
 | December 2022 | 0 DKK            | 0 DKK                                | 0 DKK                                     |
 | December 2023 | 90.000 DKK       | 16.470 DKK                           | 12.180 DKK                                 |
@@ -85,7 +85,7 @@ Here’s a comparison of taxes without and with tax-gain harvesting:
 
 ##### With Tax-Gain Harvesting:
 
-| Date Sold     | Realized Profits | Paid taxes at 27%<br>( < 61.000 DKK) | Paid taxes&nbsp;at 42%<br>( > 61.000 DKK) |
+| Date Sold     | Realized Profits | Paid taxes at 27%<br/>( < 61.000 DKK) | Paid taxes&nbsp;at 42%<br/>( > 61.000 DKK) |
 |:------------- |:---------------- |:------------------------------------ |:----------------------------------------- |
 | December 2022 | 60.000 DKK       | 16.200 DKK                           | 0 DKK                                     |
 | December 2023 | 30.000 DKK       | 8.100 DKK                            | 0 DKK                                     |
