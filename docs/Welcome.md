@@ -1,6 +1,6 @@
 ---
 slug: /
-title: 0. Welcome
+title: Welcome
 sidebar_position: 0
 ---
 
