@@ -66,6 +66,9 @@ Basically, you can buy the asset back after its value changes by just a few cent
 
 Sure, you will have to pay all the broker and currency exchange fees for selling and re-buying, but they're considerably lower than the additional taxes you pay otherwise.
 
+> ##### Note: Do not confuse with "Wash Trading"
+> Wash trading is when someone buys and sells the same Security repeatedly to create false activity and misleading information about its price or volume. This practice is illegal because it manipulates the market, making it appear more active and valuable than it actually is. Wash sale is not to be confused with Wash Trading.
+
 #### Tax-Gain Harvesting
 _Tax-gain harvesting_ means selling a part of a good-performing investment to stay under the 61.000 DKK (80.000 DKK starting in 2025) profit limit and avoid higher taxes.
 
