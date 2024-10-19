@@ -1,6 +1,6 @@
 ---
 title: Q&A
-sidebar_position: 15
+sidebar_position: 16
 ---
 
 ### I have now X DKK, what should I do with it?
