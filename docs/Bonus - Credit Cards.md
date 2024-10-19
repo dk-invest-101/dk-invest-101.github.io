@@ -1,5 +1,5 @@
 ---
-title: Bonus: Credit Cards
+title: 'Bonus : Credit Cards'
 sidebar_position: 15
 ---
 
