@@ -17,7 +17,7 @@
   "dependencies": {
     "@docusaurus/core": "3.3.2",
     "@docusaurus/preset-classic": "3.3.2",
-    "@docusaurus/theme-mermaid": "^3.3.2",
+    "@docusaurus/theme-mermaid": "3.3.2",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
@@ -44,5 +44,8 @@
   },
   "engines": {
     "node": ">=18.0"
+  },
+  "overrides": {
+    "dompurify": "3.1.6"
   }
 }
