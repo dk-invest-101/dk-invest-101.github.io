@@ -3,7 +3,7 @@ title: 'Bonus : Credit Cards'
 sidebar_position: 15
 ---
 
-Credit Cards can offer a range of rewards to customers such as air miles, cashback on purchases (small percentage of the amount is returned to you like for instance 0,5%) or insurances. Using Credit Cards for daily expenses can be a part of your daily expenses saving strategies in some countries. A very attractive offer, so why does not everyone use them?
+Credit Cards can offer a range of rewards to customers such as airlines miles, cashback on purchases (small percentage of the amount is returned to you like for instance 0,5%) or insurances. Using Credit Cards for daily expenses can be a part of your daily expenses saving strategies in some countries. A very attractive offer, so why does not everyone use them?
 
 ### History
 The most common cards in Denmark are those called "Debit Card" or "Dankort", where the money is directly debited from your bank account. Credit Cards, on the other hand is borrowed money until the due date, which usually is the end of the month. This can become dangerous if you live paycheck to paycheck or have a record of beeing in debt, since you won't notice your daily expenses directly your bank account and might be in for a suprise at the end of the month that now you owe thousands of DKK. Moroever, you are basically taking out a "quickloan" if you fail to pay the credit card provider, since interest rates can be a staggering 20% per year. Hence, only use Credit Cards with clear concience and remeber to incalculate your debt when you're looking at your bank account.
@@ -14,14 +14,33 @@ Dankort is Denmark's own payment card without any incetivising practices such as
 
 All of this makes Denmark an uninteresting market, with minimal competition for Credit Cards with reward programs. Just ask any danish person, most of them have only a Debit Card or Dankort and don't even know about Credit Cards with rewards.
 
-### Best Credit Cards in Denmark
-That said, there are however some few Credit Cards with rewards like air miles, cashback on purchases or insurances in Denmark.
+### Credit Cards in Denmark
+That said, there are however some few Credit Cards with rewards like airlines miles, cashback on purchases or insurances in Denmark.
 
-Many danish banks offer premium credit cards, mainly a Mastercard Gold ([Danske Bank](https://danskebank.dk/privat/produkter/kort/mastercard-guld), [Nykredit](https://www.nykredit.dk/dit-liv/produkter/kort-betalinger/mastercard-gold/), [Nordea](https://www.nordea.dk/privat/produkter/kort/nordea-gold.html), ...), with a yearly price of up to 800 DKK depending on your customer status, that only gives you a travel insurance. Most also have a Platinum Mastercard, costing 1.500 DKK/year with better travel insurance coverage and airport lounge access. I'm using _Nordea Mastercard Gold_ for comparison, but it should be noted that the offering may vary from Bank to Bank. For instance, _Nordea Mastercard Gold_ insures you worldwide, whereas _Danske Bank Mastercard Gold_ only covers Europe. It's advsiable to check your banks insurance policies.
+Many danish banks offer premium credit cards, mainly a Mastercard Gold ([Danske Bank](https://danskebank.dk/privat/produkter/kort/mastercard-guld), [Nykredit](https://www.nykredit.dk/dit-liv/produkter/kort-betalinger/mastercard-gold/), [Nordea](https://www.nordea.dk/privat/produkter/kort/nordea-gold.html), ...), with a yearly price of up to 800 DKK depending on your customer status, that only gives you a travel insurance. Most also have a Platinum Mastercard, costing 1.500 DKK/year with better travel insurance coverage and airport lounge access.
 
-However, there are also **completely free** alternatives, that offer similar services and we feel should be more highlighted! You could save thousands of DKK per year by just using those cards.
+However, there are also **completely free** alternatives, that offer similar services. We'll mention them soon in the comparison below.
 
+#### Airline Rewards Cards
+In Denmark, there are only two airline rewards Credit Cards at your disposal:
+1. **Bank Norwegian Credit Card** (Free)
+2. **SAS EuroBonus Credit Cards**:
+    - **Lunar EuroBonus Credit Card** (39 DKK/month)
+    - **SAS EuroBonus Mastercards**:
+        - Basic: 35 DKK/month
+        - Premium: 195 DKK/month
 
+> The SAS EuroBonus Mastercards a bit more, but they have monthly fees and
+no insurances like you get with the **Bank Norwegian Credit Card**.
+
+If you don’t fly with SAS often, the **Bank Norwegian Card** is the better choice. For every **133 DKK you spend**, you get **1 Norwegian Cashpoint**, worth **0.63 DKK**.
+
+You’d be missing out if you didn’t take advantage of the free **Bank Norwegian Credit Card** to earn **free** travel rewards and insurance perks.
+
+### Comparing Credit Cards
+Considering all of the above options, let's compare them.
+
+> We're using _Nordea Mastercard Gold_ for comparison, but it should be noted that the offering may vary from Bank to Bank. For instance, _Nordea Mastercard Gold_ insures you worldwide, whereas _Danske Bank Mastercard Gold_ only covers Europe. It's advsiable to check your banks insurance policies.
 
 |                                                                                                                        | Bank Norwegian                                                                                                                                                                                                                                                                                                                                  | Lunar                                                                                                                                                                                                                                                                         | Mastercard Gold (Nordea)                                                                                                                                                                                                                                                                                  | Circle K EXTRA Mastercard                                                                                                                                                                                                                                   |
 |:---------------------------------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,4 +72,20 @@ However, there are also **completely free** alternatives, that offer similar ser
 | **Foreign exchange fee**                                                                                               | 1,99%                                                                                                                                                                                                                                                                                                                                           | 0% (Free for Plus and Unlimited)                                                                                                                                                                                                                                              | 0,5% for European Currencies1,5% for all others                                                                                                                                                                                                                                                           | 2% + any Mastercard surcharges                                                                                                                                                                                                                              |
 | **Interest rate for late payments**                                                                                    | 22%/year                                                                                                                                                                                                                                                                                                                                        | 0% (Since it's actually a Debit Card and the amount is directly charged from your Lunar Bank account)                                                                                                                                                                         | 15%/year                                                                                                                                                                                                                                                                                                  | 23%/year                                                                                                                                                                                                                                                    |
 
-(Last updated October 2024 - Prices and terms can have changed since then)
+
+### How to Maximize Airline Rewards Cards
+#### 1. Use Credit Cards for Everyday Expenses
+Pay for groceries, fuel, and other daily expenses with a rewards card like the **Bank Norwegian Credit Card**. This way, you’ll earn points or cashback on purchases you’d make anyway.
+
+#### 2. Book Flights and Travel with Rewards Cards
+Even if you’re not flying with Norwegian Airlines, using the **Bank Norwegian Credit Card** to pay for flight tickets gives you free global travel insurance, something that otherwhise could cost thousands depending on destination and duration.
+
+#### 3. Fund Investments with Rewards Cards
+Some platforms like **Saxo** (but not **Nordnet**) allow you to fund investment accounts with credit cards, instead of Bank Transfers. For example:
+- Adding 5.000 DKK to your Saxo account earns 25 CashPoints.
+- If you invest 100.000 DKK over time, you could earn enough points for a free airline ticket!
+
+### Final Recommendation
+For the best combination of savings and rewards, get the **Bank Norwegian Credit Card**. It’s free, offers travel insurance, and earns you airline miles or cashback. Start using it for daily expenses and even investments to maximize your rewards.
+
+With smart use, you could save or earn **thousands of DKK per year**!
