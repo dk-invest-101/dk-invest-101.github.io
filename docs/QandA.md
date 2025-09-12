@@ -13,7 +13,7 @@ First, put the money in a bank account where it's safe. Then, **forget about it*
 While you're figuring things out, don't touch the money. Avoid buying things, telling people about your money, or start investing in whatever catches your eye, thinking you are going to be the next Warren Buffett! Be patient and make well-thought-out decisions.
 
 ### Where to safely store large sums of money?
-As mentioned in [9. Insurances](https://dk-invest-101.github.io/Insurances#garantiformuen), if you have more than 100.000 EUR / 750.000 DKK, it's a good idea to split it and store it in multiple institutions to make most out of the Garantieformuen insurance. For example, you can use banks like Bank Norwegian and Lunar, which offer free accounts.
+As mentioned in [9. Insurances](https://dk-invest-101.github.io/Insurances#garantiformuen), if you have more than 100.000 EUR / 750.000 DKK, it's a good idea to split it and store it in multiple institutions to make most out of the _Garantieformuen_ insurance. For example, you can use banks like Bank Norwegian and Lunar, which offer free accounts.
 
 ### I've just seen lots of hypes about a Stock online, and it increased massively within the last 24h - if I'm not buying now, then it's too late?!
 If you’re hearing about a hyped stock for the first time through online communities, like Reddit, it’s a guarantee that you are too late to ride any possible “wave”. These stocks are also commonly known as "meme stock", since they have no real tangible value or reason for their massive increase, except thousand of users blindly jumping on a train in hope of getting rich quick, or even just bots spamming. Weak hearted investors are pushed into investments out of fear of missing out the next GameStop (GME) or DogeCoin (Cryptocurrency) which have risen from mere cents to several (hundreds) dollars, yielding an increase of several thousand percent. The low prices of these stocks makes it even harder to resist buying into.
@@ -28,6 +28,55 @@ Investing a large amount of money all at one time, known as a _"Lump Sum"_ inves
 You might find it more comfortable to invest a set amount regularly over a period of time, no matter what the market is doing. This method, called _"Dollar Cost Averaging,"_ helps reduce the impact of short-term market changes by spreading out the cost of your investments. By buying over a period of time, you are purchasing stocks at the **average** price over the period, instead of one specific point at the start of that time period. This protects you from the stress of a big market drop right after you invest.
 
 However, if the market goes up for a long time, you might miss out on some potential gains you would get with a Lump Sum investment. Despite this, Dollar Cost Averaging is a safer approach that might help you sleep easy at night. [Statistically, you are more likely to get a higher return with a lump sum investment.](https://investor.vanguard.com/investor-resources-education/news/lump-sum-investing-versus-cost-averaging-which-is-better)
+
+### Minimizing Currency Exchange Fees
+When you invest in foreign financial products—like the _iShares MSCI ACWI UCITS ETF USD (Acc) (IUSQ)_, which is traded in EUR—or need to convert a large sum of money between currencies, you should be aware of the potentially significant exchange fees.
+
+For example, as previously noted in [**7. Costs of Investing**], SAXO Bank charges a **0,25% foreign (currency) exchange (FX) fee** on all currency conversions Nordnet only **0,15%**. This applies whether you're:
+- Investing in products like the _IUSQ_ ETF using DKK, or
+- Simply exchanging money between currencies (e.g., EUR to DKK or vice versa).
+
+This means a 100.000 DKK investment could incur a 150 DKK fee—**and you'd pay the same fee again when selling and converting back to DKK**.
+
+Currency exchange always comes at a cost. While these fees might seem minor, they can add up over time. Fortunately, there are ways to minimize or avoid them entirely.
+
+#### [InteractiveBrokers.ie](https://www.interactivebrokers.ie)
+If you frequently trade in foreign products, then InteractiveBrokers.ie, a widely praised global alternative to SAXO and Nordnet, might be better for you. With their **free plan**, you can convert currencies **with a 0,002% (or a minimum of 2 USD)**. However, there are a few trade-offs:
+- No support for Danish tax-advantaged accounts like _Aktiesparekonto_ or _Månedsopsparingskonto_.
+- You must handle tax reporting yourself, as they don’t report directly to the Danish tax authorities.
+
+For large single conversions, Interactive Brokers is particularly appealing. For example, converting 100.000 EUR to DKK would give you approximately 746.097 DKK, minus a small 14,93 DKK fee (calculated as 0.002% of 100.000 EUR, which is 2 EUR ≈ 2.34 USD ≈ 14,93 DKK).
+
+This feature is intended strictly for trading purposes. Using it solely for currency exchange and then withdrawing funds may be considered an abuse of the system and could result in account penalties. If such misuse is detected, your account will receive a formal warning and be placed under monitoring for the next 30 days. Any additional violations during this period may lead to restrictions or even account termination. Technically speaking, you could convert large sums every 30 days and be fine, but doing so is **at your own risk.**
+
+To convert money with InteractiveBrokers:
+1. Deposit money into your InteractiveBrokers account.
+2. Convert the currency internally.
+3. Wait **three business days** due to their [withdrawal hold period](https://www.interactivebrokers.com/lib/cstools/faq/#/articles/28225581).
+4. Withdraw the funds and transfer them to another platform like SAXO, Nordnet or your bank (There's no way InternationalBrokers.ie knows if you intend to use it for trading or not)
+
+> If you transfer DKK from Interactive Brokers to Nordea, Nordea charges a 60 DKK fee. This is because Interactive Brokers uses a SWIFT transfer for DKK, not SEPA. Interactive Brokers only supports SEPA EUR, not for DKK.
+
+#### [Atlantic Money](https://atlantic.money/eu/en/) 
+[Atlantic Money](https://atlantic.money/eu/en/) is a digital service (not a bank) that allows users to convert money **from GBP or EUR** to [9 supported currencies](https://support.atlantic.money/en/support/solutions/articles/101000360813-what-currencies-do-you-support-) at the **market exchange rate**, charging a **flat fee of 3 GBP or 3 EUR**.
+
+This makes it especially cost-effective when converting amounts above 2000 EUR, where Nordnet's 0,15% fee would exceed 3 EUR. Atlantic Money is transparent, with no hidden fees.
+
+> **Is your money safe with them since they’re not a bank?**
+> Your money is not protected by insurances during the short period when it's being exchanged. However, once the conversion is complete, the funds are held in a "segregated customer bank accounts", meaning your money must be returned to you even if Atlantic Money goes bankrupt.
+
+#### [Wise.com](https://www.wise.com)
+[Wise](https://www.wise.com), registered in Belgium, is a 100% digital bank focused solely on low currency exchange, global transfers, and spending abroad via debit card. It doesn’t offer traditional banking features like loans or savings accounts.
+
+Wise operates with a transparent fee model, offering near-market exchange rates with a small added fee. For instance, converting 100.000 EUR to DKK typically involves a **0.429% fee**, but volume discounts can reduce this to around **0.351%**. While this is higher than the fees from SAXO, Interactive Brokers or Atlantic Money, Wise supports over 40 currencies—making it ideal for more exotic transfers, such as converting South Korean Won (KRW), which other platforms might not support.
+
+#### Contact Your Bank
+For **one-time large conversions**, it’s worth contacting your bank directly. Some banks may offer favorable rates, especially if you negotiate or explain your needs. That said, e.g. Nordea charges [0,40% when exchanging between EUR and DKK](https://www.nordea.dk/erhverv/valutamarginaler.html).
+
+#### What about Lunar, Revolut,...?
+**Lunar** offers free currency exchange **only** when paying abroad with their credit card and only for subscribers on the **Plus plan or higher**, which costs 79 DKK/month. Internal currency conversions (e.g., for trading or transferring to another bank) incur a fixed fee of 0–50 DKK plus a **0,5% exchange fee**.
+
+**Revolut**, on the other hand, allows free foreign exchange for **all purposes** on the **Premium plan or higher** (75 DKK/month). However, their exchange rate is bad. For example, converting 100.000 EUR to DKK yields only **744.721 DKK**, which is **0.19% worse than the market rate**, effectively costing you **1.417 DKK** in hidden fees. So while there’s no explicit fee, the poorer rate translates to a **0.19% exchange fee**. Moreover, there have been multiple reports that Revolut's anti-money laundering system has frozen large conversions over several months.
 
 ### Why can't we buy some S&P 500 ETFs like Vanguards VOO?
 As a retail investor (little fishes like you and me), we can't buy certain products, such as the _Vanguard S&P 500 ETF_ with the ticker symbol _VOO_, which [is a highly recommended ETF in U.S. investment communities.](https://www.reddit.com/r/ETFs/comments/1038v2m/ivv_spy_voo_what_is_the_best_sp_500_etf_tracker/).
@@ -102,6 +151,72 @@ If you have investments that are losing money, you can sell them to create a los
 For example, if you sell an investment (Stock A) for a profit of 90.000 DKK but have another investment (Stock B) that’s down by 30.000 DKK, you can sell 20.000 DKK of Stock B to offset the profit from Stock A. This means you’ll only be taxed on 60.000 DKK, while still having the 90.000 DKK profit. You can then buy back Stock B, resetting those losses using the wash sale method.
 
 By using tax-loss harvesting, you reduce your net profits, possibly keeping your investment income under the higher tax rate and saving money on taxes.
+
+
+### About  _Storebrand Indeks - Alle Markeder A (STIIAM)_ 
+[_Storebrand Indeks - Alle Markeder A (STIIAM)_ ](https://www.storebrand.no/privat/fondsark/storebrand?isin=NO0010611148&buy&name=Storebrand%20Indeks%20-%20Alle%20Markeder%20A) is a fairly new Danish investment fund. Even though it should be taxed at 37% (_Kapitalindkomst_) using the inventory method (Dk: _Lagerprincippet_), it is somehow taxed at 27%/42% (_Aktieindkomst_) when realized (Dk: realisationsprincippet) — which is unusual because it's an accumulating ETF.
+
+It's also the cheapest Danish investment fund, with a very low annual cost (ÅOP/TER) of **0,30%**. However, because it's still new, not many people trade it yet. That means it has low volume, so you might lose some money when buying or selling it due to the price difference between buyers and sellers (the spread).
+
+On top of that, tax rules have changed since _Storebrand Indeks - Alle Markeder A (STIIAM)_  was launched. Twice, it was reclassified as an inventory-taxed (Dk: _Lagerprincippet_) _Kapitalindkomst_ fund. But the people behind it have always managed to get it switched back to being taxed as an realization-taxed (Dk: realisationsprincippet) _Aktieindkomst_ product.
+
+_Storebrand Indeks - Alle Markeder A (STIIAM)_ does not track the MSCI ACWI Index in its entirety. Instead, it follows a **sustainable investment strategy**, excluding companies involved in tobacco, defense and aerospace, coal-intensive utilities and mining, and parts of the oil industry. These exclusions align with Storebrand’s [sustainability blacklist](https://www.storebrand.com/sam/nl/asset-management/sustainability/our-method/exclusions), which may appeal to environmentally conscious investors. However, for those strictly seeking maximum returns, this filtered exposure might be seen as a drawback.
+
+Lastly, even though STIIAM is an accumulating Danish investment fund, you still have to pay some taxes every year. Each year, the fund earns dividends. Instead of paying them out to you, it reinvests them — that’s the “accumulating” part. But even if you don’t receive the money directly, those dividends are still taxed annually under inventory principle. You benefit from compound interest as your dividends are reinvested, but you also pay yearly taxes on them. These dividends are known as _"technical dividends"_. Then, when you eventually sell the Danish investment fund, you’re taxed again — this time on the total gain minus the taxes you’ve already paid on those dividends.
+
+####  _Storebrand Indeks - Alle Markeder A (STIIAM)_ Taxation Example
+1. **Purchase in 2025**  
+    _You buy 50 units in 2025 at 2.080 DKK each → cost 104.000 DKK._
+2. **“Technical dividends” you never see in cash**  
+    _2026: fund reports 10 DKK per unit. You pay taxes on 500 DKK_  
+    _2027: fund reports 15 DKK per unit. You pay taxes on 750 DKK_
+    You pay in total dividend tax on those 1.250 DKK even though nothing is paid out.
+3. **Sale in 2028**  
+    _2028: you sell the 50 units for 2.405 DKK each → 120.250 DKK._  
+    Total gain = 120.250 DKK - 104.000 = 16.250 DKK.
+4. **Avoiding double tax**  
+    Because you already paid tax on the 1.250 DKK “technical dividends”, you subtract that amount from the total gain:  
+    16.250 − 1.250 = 15.000 DKK is what you still have to tax when you sell.
+
+In practice, this means that you must have spare cash each year to pay tax on money you didn’t actually receive.
+
+### What is a Market Maker?
+A **market maker** is a professional trader or institution that’s always ready to **buy and sell** financial products like stocks or ETFs, so that others can trade instantly. Even if they don’t already have the shares you want to buy, they can often **borrow them**, **find them quickly**, or (in the case of ETFs) even **create new ones** by working with the ETF provider. This lets them offer you a trade almost instantly. They also help make sure that **ETF prices stay close to the real value** of what’s inside the fund. If prices drift too far, they step in and trade to bring things back in line. This protects investors from overpaying or selling too cheap. They make money by **buying at a slightly lower price and selling at a slightly higher price**—this small difference is called the _spread_.
+
+### The Power of Compound Interest (Accumulating products)
+
+The **compound interest effect**—known in Danish as _renters rente effekt_—describes how reinvested returns can accelerate the growth of your investment over time.
+
+When you invest in **ETFs** or **Danish investment funds**, they typically generate annual dividends. In the case of **accumulating ETFs or funds**, these dividends are not paid out to you. Instead, they are automatically reinvested into the investment, increasing your principal. As a result, in future years, you earn returns not just on your original amount but also on the reinvested gains.
+
+#### Example:
+- **Year 1**: You earn 1,000 DKK in dividends, which are reinvested.
+- **Year 2**: You earn returns on both the original investment and the reinvested 1,000 DKK.
+
+This compounding cycle continues year after year, allowing your gains to generate even more gains. Over time, this can lead to **exponential growth** of your investment. It’s a key reason why **time in the market** often outperforms attempts to **time the market**.
+
+
+### Why should we not invest in ETFs or accumulating Danish investment funds outside of an _Aktiesparekonto_?
+To understand this, let’s compare two similar investment products that track the MSCI ACWI index:
+
+| Product      | _Danske Invest Global Indeks KL (Dist) (DKIGI)_ | _Xtrackers MSCI World UCITS ETF (Dist) (XZDW)_ | _Danske Invest Global Indeks KL DKK h (Acc) (DKIGIADKKH)_ |
+|:------------ |:--------------------------------------------------- |:-------------------------------------------------------- |:--------------------------------------------------------- |
+| Index        | MSCI World                                       | MSCI World                                            | MSCI World                                               |
+| Type         | Danish Investment Fund                              | ETF                                                      | Danish Investment Fund                                    |
+| Returns      | Pays dividends                                      | Pays dividends                                           | Accumulating                                              |
+| ÅOP/TER      | 0,40%                                               | 0,25%                                                    | 0,40%                                                     |
+| Tax type     | Aktieindkomst (27% / 42%)                           | Aktieindkomst (27% / 42%)                                | Aktieindkomst (27% / 42%)                                 |
+| Tax due date | Realisation principle (DK:_Realisationsprincippet_) | Inventory principle (DK:_Lagerprincippet_)               | Inventory principle (DK:_Lagerprincippet_)                |
+
+While the _Xtrackers MSCI World UCITS ETF (Dist) (XZDW)_ (lower fee) or _Danske Invest Global Indeks KL DKK h (Acc) (DKIGIADKKH)_ (accumulating, taking advantage of the compund effect) looks better on paper, it comes with a major drawback in the Danish tax system: it is taxed annually under the inventory principle (Dk: _lagerprincippet_) simply because they are ETFs or accumulating Danish investment funds.
+
+Although the **Xtrackers MSCI World UCITS ETF (Dist) (XZDW)_ (lower fee) or _Danske Invest Global Indeks KL DKK h (Acc) (DKIGIADKKH)_ (accumulating, taking advantage of the compund effect) looks better on paper**, it’s taxed every year on the **entire gain**, even if you don’t sell anything.
+
+This is a problem: you need cash to pay tax every year — and that cash comes from money that could’ve stayed invested and grown over time. Simply because ETFs or accumulating Danish Investment Funds are inventory-taxed (Dk: _Lagerprincippet_)
+
+With **_Danske Invest Global Indeks KL (Dist) (DKIGI)_**, which is not an accumulating Danish investment fund, you’re only taxed on dividends annually. The rest of your gain isn’t taxed until you sell (_realisationsprincippet_). That means more of your money can stay invested earlier — and the earlier your money is invested, the more it compounds.
+
+For Danish investors, this makes **_ETFs or accumulating Danish investment funds outside of an _Aktiesparekonto_ inattractive**, precisely because there they are always taxed under the **inventory principle** (Dk: _Lagerprincippet_).
 
 ### Any further resources that you can recommend?
 Check out the [r/dkfinance](https://www.reddit.com/r/dkfinance/) community on Reddit for helpful posts. Additionally, these websites have some good articles too:
