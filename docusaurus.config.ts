@@ -65,7 +65,7 @@ const config: Config = {
       },
       items: [
         {
-          href: "https://github.com/dk-invest-101/DK-Investing-101",
+          href: "https://github.com/dk-invest-101/dk-invest-101.github.io",
           label: "GitHub",
           position: "right",
         },
